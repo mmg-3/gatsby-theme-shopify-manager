@@ -25,8 +25,8 @@ module.exports = (themeOptions) => {
     ? {
         resolve: `gatsby-source-shopify`,
         options: {
-          shopName,
-          accessToken,
+          shopName maybach-media-group ,
+          accessToken f930f68b696ce7f338f1fc0f7649afbf ,
         },
       }
     : null;
